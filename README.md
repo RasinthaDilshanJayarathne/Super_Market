@@ -1,5 +1,7 @@
 # Super_Market
 
+This is a Web-based POS System without using any DataBase. The data will be stored inside an Array..
+
 Food Dashboard 🥩
 ![Screenshot (1138)](https://user-images.githubusercontent.com/87766409/174477323-c79f490a-ade2-4b73-bdde-8ccf307210d5.png)
 
